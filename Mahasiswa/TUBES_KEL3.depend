@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1640762805 source:d:\data kuliah\kuliah semester 5\struktur data\tubes_kel3\tubes_kel3\mahasiswa.cpp
+	"mahasiswa.h"
+
+1640680687 d:\data kuliah\kuliah semester 5\struktur data\tubes_kel3\tubes_kel3\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1640682562 source:d:\data kuliah\kuliah semester 5\struktur data\tubes_kel3\tubes_kel3\matkul.cpp
+	"matkul.h"
+
+1640681514 d:\data kuliah\kuliah semester 5\struktur data\tubes_kel3\tubes_kel3\matkul.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1640679802 source:d:\data kuliah\kuliah semester 5\struktur data\tubes_kel3\tubes_kel3\main.cpp
+	<iostream>
+	"relasi.h"
+
+1640681707 d:\data kuliah\kuliah semester 5\struktur data\tubes_kel3\tubes_kel3\relasi.h
+	"mahasiswa.h"
+	"matkul.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<iostream>
+
+1640683440 source:d:\data kuliah\kuliah semester 5\struktur data\tubes_kel3\tubes_kel3\relasi.cpp
+	"relasi.h"
+
+1640679802 source:d:\tel-u\tugas online learning\smstr 5\std\tubes_kel3\tubes_kel3\main.cpp
+	<iostream>
+	"relasi.h"
+
+1640825654 d:\tel-u\tugas online learning\smstr 5\std\tubes_kel3\tubes_kel3\relasi.h
+	"mahasiswa.h"
+	"matkul.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<iostream>
+
+1640825415 d:\tel-u\tugas online learning\smstr 5\std\tubes_kel3\tubes_kel3\mahasiswa.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1640827303 d:\tel-u\tugas online learning\smstr 5\std\tubes_kel3\tubes_kel3\matkul.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1640827165 source:d:\tel-u\tugas online learning\smstr 5\std\tubes_kel3\tubes_kel3\mahasiswa.cpp
+	"mahasiswa.h"
+
+1640827204 source:d:\tel-u\tugas online learning\smstr 5\std\tubes_kel3\tubes_kel3\matkul.cpp
+	"matkul.h"
+
+1640826971 source:d:\tel-u\tugas online learning\smstr 5\std\tubes_kel3\tubes_kel3\relasi.cpp
+	"relasi.h"
+
